@@ -1,0 +1,35 @@
+.tin{
+    width: 70vw;
+    align-items: center;
+    display: inline-block;
+    align-content: center;
+    padding-left: 5.2rem;
+
+}
+
+.wrap{
+    background-color: beige;
+    position: relative;
+    display: flex;
+    width: 43%;
+    height:5rem;
+    float: left;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+    align-self: center;
+    border-radius: 5px;
+    
+}
+
+img{
+    height: 3.5rem;
+    width: 3.5rem;
+    align-self: center;
+    margin-left: .8rem;
+    margin-right: 1rem;
+}
+
+.name{
+    font-weight: 600;
+    margin-top: -1rem;
+}

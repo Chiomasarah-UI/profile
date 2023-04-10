@@ -1,0 +1,25 @@
+.main{
+    background-image: linear-gradient(rgb(196, 31, 141), rgb(194, 194, 19));
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.search{
+    all: unset;
+    align-self: center;
+    width: 60%;
+    height: 2.8rem;
+    background-color: beige;
+    border-radius: 6px;
+    margin-top: 3rem;
+    padding-left: 1rem;
+}
+
+.arrange{
+    display:flex;
+    flex-direction:column;
+     margin: auto; 
+     align-self:center;
+}
